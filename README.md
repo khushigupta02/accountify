@@ -97,7 +97,6 @@ mvn clean install
 {
   "account_id": 1,
   "document_number": "12345678900"
-
 }
 
 ### 3. Retrieve All Account Information
