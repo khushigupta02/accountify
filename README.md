@@ -1,4 +1,5 @@
-Transactions Service
+# Transactions Service
+
 This is a basic transactions service that manages accounts and transactions for cardholders. It supports the creation of accounts and transactions, and tracks the account balance based on transaction types, using MySQL as the database for persistence.
 
 ## Technologies Used
