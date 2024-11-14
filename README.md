@@ -43,7 +43,7 @@ We have provided run.sh and run.bat files for easy execution of the application.
 chmod +x run.sh
 
 2.Run the application using the run.sh script:
-./run.sh
+bash run.sh
 
 ### For Windows:
 Run the application using the run.bat script:
