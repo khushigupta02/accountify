@@ -42,7 +42,7 @@ We have provided run.sh and run.bat files for easy execution of the application.
 1. Ensure run.sh has execution permissions:
 chmod +x run.sh
 
-2.Run the application using the run.sh script:
+2. Run the application using the run.sh script:
 bash run.sh
 
 ### For Windows:
